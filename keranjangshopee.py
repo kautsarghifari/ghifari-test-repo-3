@@ -1,0 +1,1 @@
+a = ['Lampu','Gelas','Piring']
