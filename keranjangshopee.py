@@ -1,1 +1,1 @@
-a = ['Lampu','Gelas','Piring']
+a = ['Lampu','Gelas','Piring','Bantal']
