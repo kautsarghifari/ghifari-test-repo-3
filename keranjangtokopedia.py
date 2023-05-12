@@ -1,0 +1,1 @@
+a = ['Meja belajar','Lemari','Kasur']
