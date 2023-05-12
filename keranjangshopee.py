@@ -1,3 +1,3 @@
-a = ['Lampu','Gelas','Piring','Bantal','keyboard']
-b = ['laptop', 'charger', 'sisir']
-c = ['poster']
+a = ['Botol','Gelas','Pirings','bantal','keyboard']
+b = ['moster', 'chargers', 'sirip']
+c = ['Tisuq']
