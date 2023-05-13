@@ -1,4 +1,4 @@
 
-a = ['Botol','Gelas','Pirings','bantal','keyboard','Hp']
+a = ['Botol kaca','Gelas','Pirings','bantal','keyboard','Hp']
 b = ['laptop', 'charger', 'sihir']
-c = ['monster']
+c = ['redbull']
